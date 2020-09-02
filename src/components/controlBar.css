@@ -1,0 +1,9 @@
+.control-bar ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.control-bar ul li {
+  display: inline-block;
+  padding: 2px;
+}

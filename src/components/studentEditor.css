@@ -1,11 +1,11 @@
-.App {
+form {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  text-align: left;
 }
 
-.big-button {
-  box-sizing: border-box;
-  width: 200px;
+form input {
   display: block;
+  margin: 5px;
 }
